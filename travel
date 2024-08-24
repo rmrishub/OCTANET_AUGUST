@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Travel and Explore</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Destinations</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="hero">
+    <h1>Explore the World with Us</h1>
+    <p>Discover new destinations, cultures, and experiences</p>
+    <button>Get Started</button>
+  </section>
+  <section class="features">
+    <h2>Why Choose Us?</h2>
+    <div class="feature">
+      <i class="fas fa-plane"></i>
+      <h3>Flights</h3>
+      <p>Book your flights with us and get the best deals</p>
+    </div>
+    <div class="feature">
+      <i class="fas fa-hotel"></i>
+      <h3>Hotels</h3>
+      <p>Find the perfect hotel for your stay</p>
+    </div>
+    <div class="feature">
+      <i class="fas fa-compass"></i>
+      <h3>Tours</h3>
+      <p>Explore new destinations with our guided tours</p>
+    </div>
+  </section>
+  <section class="destinations">
+    <h2>Popular Destinations</h2>
+    <div class="destination">
+      <img src="img/paris.jpg" alt="Paris">
+      <h3>Paris</h3>
+      <p>The City of Love and Romance</p>
+    </div>
+    <div class="destination">
+      <img src="img/new-york.jpg" alt="New York">
+      <h3>New York</h3>
+      <p>The City That Never Sleeps</p>
+    </div>
+    <div class="destination">
+      <img src="img/tokyo.jpg" alt="Tokyo">
+      <h3>Tokyo</h3>
+      <p>The City of Neon Lights and Technology</p>
+    </div>
+  </section>
+  <footer>
+    <p>&copy; 2023 Travel and Explore</p>
+  </footer>
+</body>
+</html>
